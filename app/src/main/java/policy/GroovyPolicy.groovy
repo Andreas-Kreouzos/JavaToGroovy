@@ -1,9 +1,15 @@
 package policy
 
+
 class GroovyPolicy {
 	
-	final int companyId
-	final int branchId
-	final String policyNumber
+	int companyId
+	int branchId
+	String policyNumber
 
+	GroovyPolicy(int companyId, int branchId, String policyNumber) {
+		this.companyId = companyId
+		this.branchId = branchId
+		this.policyNumber = policyNumber
+	}
 }
