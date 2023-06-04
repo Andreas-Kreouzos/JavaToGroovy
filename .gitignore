@@ -9,3 +9,12 @@ app/.classpath
 app/.project
 app/.settings/
 app/bin/
+/.idea/vcs.xml
+/.idea/uiDesigner.xml
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/jarRepositories.xml
+/.idea/modules/app/Groovy.app.main.iml
+/.idea/gradle.xml
+/.idea/compiler.xml
+/.idea/.gitignore

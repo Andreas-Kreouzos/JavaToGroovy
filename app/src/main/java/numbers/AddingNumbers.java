@@ -49,7 +49,6 @@ public class AddingNumbers {
 		System.out.println(an.addEven(1,2,3,4,5,6,7,8));
 		System.out.println(an.addOdd(1,2,3,4,5,6,7,8));
 		System.out.println(an.addNumbersGreaterThan(
-				Arrays.asList(new Integer[] {1,2,3,4,5,6,7,8}), 4));
+				Arrays.asList(1,2,3,4,5,6,7,8), 4));
 	}
-
 }
